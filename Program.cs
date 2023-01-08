@@ -7,7 +7,7 @@
            Console.Read();
         */
         /*
-        Console.WriteLine("Sikici Bela 69");
+        Console.WriteLine("C# calismalari");
         Console.Read();
         */
         /*
